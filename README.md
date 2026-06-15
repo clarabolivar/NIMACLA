@@ -31,3 +31,14 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+
+## Ejecución
+
+Para iniciar la aplicación se ejecuta:
+
+```bash
+streamlit run aplicacion.py
+```
+
+## Licencia
+Este proyecto se distribuye bajo licencia MIT.
