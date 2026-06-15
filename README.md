@@ -30,3 +30,4 @@ Se recomienda utilizar un entorno virtual de Python.
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
